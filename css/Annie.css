@@ -100,24 +100,6 @@ figure {
 html {
   font-size: 16px;
 }
-body {
-/*font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell","Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;*/
-  font-family: Ovo, Georgia, STZhongsong, "Microsoft YaHei", serif;
-  font-size: 1rem;
-  font-weight: normal;
-  color: #555;
-  -webkit-text-size-adjust: 100%;
-  -moz-text-size-adjust: 100%;
-  -ms-text-size-adjust: 100%;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-/*
-		word-spacing: 1px;
-		letter-spacing: 1px;
-		word-wrap: break-word;//针对单词本身换行做处理
-		word-break: break-all;//针对句子本身换行做处理
-	*/
-}
 .html-loading {
   width: 100%;
   height: 100%;
